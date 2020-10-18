@@ -45,7 +45,7 @@
     "pug-html-loader": "^1.1.5",
     "resolve-url-loader": "^3.1.1",
     "sass-loader": "^8.0.0",
-    "style-loader": "^1.0.0",
+    "style-loader": "^1.2.1",
     "typeface-roboto": "^0.0.75",
     "url-loader": "^2.3.0"
   }
