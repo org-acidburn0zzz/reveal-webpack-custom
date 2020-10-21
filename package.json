@@ -43,7 +43,7 @@
     "jstransformer-markdown-it": "^2.1.0",
     "product-sans-webfont": "^1.0.0",
     "pug-html-loader": "^1.1.5",
-    "resolve-url-loader": "^3.1.1",
+    "resolve-url-loader": "^3.1.2",
     "sass-loader": "^8.0.0",
     "style-loader": "^1.0.0",
     "typeface-roboto": "^0.0.75",
